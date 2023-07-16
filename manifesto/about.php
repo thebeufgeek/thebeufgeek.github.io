@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from manifesto.clapat.com/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 09 Jul 2023 21:29:40 GMT -->
 <head>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script>
@@ -431,7 +430,7 @@
                             <div class="page-nav-wrap">
                                 <div class="page-nav-caption content-full-width text-align-center">                                 
                                     <div class="inner">
-                                        <a class="page-title next-ajax-link-page" data-type="page-transition" data-centerline="SAY HEY" href="contact.html">
+                                        <a class="page-title next-ajax-link-page" data-type="page-transition" data-centerline="SAY HEY" href="contact.php">
                                             <div class="next-hero-title primary-font-title caption-timeline"><span><em>Let's create</em></span> <span>something great</span> <span>together</span></div>
                                         </a>
                                         <div class="next-hero-subtitle caption-timeline"><span>Contact us and let's bring your vision to life</span></div>
@@ -534,5 +533,4 @@
 </body>
 
 
-<!-- Mirrored from manifesto.clapat.com/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 09 Jul 2023 21:30:17 GMT -->
 </html>

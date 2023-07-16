@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from manifesto.clapat.com/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 09 Jul 2023 21:30:18 GMT -->
 <head>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script>
@@ -320,5 +319,4 @@
 </body>
 
 
-<!-- Mirrored from manifesto.clapat.com/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 09 Jul 2023 21:30:18 GMT -->
 </html>

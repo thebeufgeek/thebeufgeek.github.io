@@ -60,7 +60,7 @@
                 
                 <!-- Logo -->
                 <div id="logo" class="hide-ball">
-                    <a class="ajax-link" data-type="page-transition" href="index-2.html">
+                    <a class="ajax-link" data-type="page-transition" href="index-2.php">
                         <img class="black-logo" src="images/logo.png" alt="ClaPat Logo">
                         <img class="white-logo" src="images/logo-white.png" alt="ClaPat Logo">
                     </a>
@@ -105,7 +105,7 @@
                                                         <div class="slide-moving">
                                                             <div class="trigger-item" data-centerLine="OPEN">
                                                                 <div class="img-mask">
-                                                                    <a class="slide-link" data-type="page-transition" href="project01.html">
+                                                                    <a class="slide-link" data-type="page-transition" href="project01.php">
                                                                         <div class="parallax-wrap">
                                                                             <div class="parallax-element">
                                                                                 <i class="fa-solid fa-arrow-up-right-from-square"></i>
@@ -133,7 +133,7 @@
                                                         <div class="slide-moving">
                                                             <div class="trigger-item" data-centerLine="OPEN">
                                                                 <div class="img-mask">
-                                                                    <a class="slide-link" data-type="page-transition" href="project02.html">
+                                                                    <a class="slide-link" data-type="page-transition" href="project02.php">
                                                                         <div class="parallax-wrap">
                                                                             <div class="parallax-element">
                                                                                 <i class="fa-solid fa-arrow-up-right-from-square"></i>
@@ -161,7 +161,7 @@
                                                         <div class="slide-moving">
                                                             <div class="trigger-item" data-centerLine="OPEN">
                                                                 <div class="img-mask">
-                                                                    <a class="slide-link" data-type="page-transition" href="project03.html">
+                                                                    <a class="slide-link" data-type="page-transition" href="project03.php">
                                                                         <div class="parallax-wrap">
                                                                             <div class="parallax-element">
                                                                                 <i class="fa-solid fa-arrow-up-right-from-square"></i>
@@ -189,7 +189,7 @@
                                                         <div class="slide-moving">
                                                             <div class="trigger-item change-header" data-centerLine="OPEN">
                                                                 <div class="img-mask">
-                                                                    <a class="slide-link" data-type="page-transition" href="project04.html">
+                                                                    <a class="slide-link" data-type="page-transition" href="project04.php">
                                                                         <div class="parallax-wrap">
                                                                             <div class="parallax-element">
                                                                                 <i class="fa-solid fa-arrow-up-right-from-square"></i>
@@ -222,7 +222,7 @@
                                                         <div class="slide-moving">
                                                             <div class="trigger-item" data-centerLine="OPEN">
                                                                 <div class="img-mask">
-                                                                    <a class="slide-link" data-type="page-transition" href="project05.html">
+                                                                    <a class="slide-link" data-type="page-transition" href="project05.php">
                                                                         <div class="parallax-wrap">
                                                                             <div class="parallax-element">
                                                                                 <i class="fa-solid fa-arrow-up-right-from-square"></i>
@@ -250,7 +250,7 @@
                                                         <div class="slide-moving">
                                                             <div class="trigger-item" data-centerLine="OPEN">
                                                                 <div class="img-mask">
-                                                                    <a class="slide-link" data-type="page-transition" href="project06.html">
+                                                                    <a class="slide-link" data-type="page-transition" href="project06.php">
                                                                         <div class="parallax-wrap">
                                                                             <div class="parallax-element">
                                                                                 <i class="fa-solid fa-arrow-up-right-from-square"></i>
@@ -278,7 +278,7 @@
                                                         <div class="slide-moving">
                                                             <div class="trigger-item" data-centerLine="OPEN">
                                                                 <div class="img-mask">
-                                                                    <a class="slide-link" data-type="page-transition" href="project07.html">
+                                                                    <a class="slide-link" data-type="page-transition" href="project07.php">
                                                                         <div class="parallax-wrap">
                                                                             <div class="parallax-element">
                                                                                 <i class="fa-solid fa-arrow-up-right-from-square"></i>
@@ -306,7 +306,7 @@
                                                         <div class="slide-moving">
                                                             <div class="trigger-item" data-centerLine="OPEN">
                                                                 <div class="img-mask">
-                                                                    <a class="slide-link" data-type="page-transition" href="project08.html">
+                                                                    <a class="slide-link" data-type="page-transition" href="project08.php">
                                                                         <div class="parallax-wrap">
                                                                             <div class="parallax-element">
                                                                                 <i class="fa-solid fa-arrow-up-right-from-square"></i>
@@ -391,7 +391,7 @@
                 <footer class="hidden">        	
                     <div id="footer-container">
                         
-                        <a class="ajax-link link-text fadeout-element" data-type="page-transition" href="index-showcase-carousel.html"><span class="link" data-hover="Close Archive">Close Archive</span></a>
+                        <a class="ajax-link link-text fadeout-element" data-type="page-transition" href="index-showcase-carousel.php"><span class="link" data-hover="Close Archive">Close Archive</span></a>
                         
                         <div id="filters-wrapper" class="link">                        	
                             <div class="active-filter-bg"></div>                            
